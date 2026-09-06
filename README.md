@@ -4,7 +4,7 @@ Mechanical engineer from UC Berkeley, with coursework toward a minor in electric
 computer science. I build measuring devices and small robots that go in the water and run with
 nobody watching.
 
-![A sensor pod I built at Woods Hole, in its 3D-printed case](https://res.cloudinary.com/dr76gues0/image/upload/v1787307444/portfolio/scalup-v2-housing.jpg)
+<img src="https://res.cloudinary.com/dr76gues0/image/upload/w_720/v1787307444/portfolio/scalup-v2-housing.jpg" alt="A sensor pod I built at Woods Hole, in its 3D-printed case" width="380">
 
 Right now I am a visiting researcher at TU Hamburg, in Germany, teaching a small underwater robot
 to hold its position and point where it is told. I am building my own copy of it too.
