@@ -23,13 +23,13 @@ sail boats to talk to each other and to shore via a completely peer-to-peer radi
 - [learning to swim](https://learning-to-swim.vercel.app) — personal TUHH Hippocampus Robotics contribution documentation
 - [hippocampus docs](https://hippocampus-docs.vercel.app) — documentation site I built for the TUHH Hippocampus Robotics
   lab, with a custom CMS for maintenance
-- [scalup](https://github.com/kyle-nelson-berkeley/scalup) — Environmental sensor records ocean conditions unsupervised for days
-- [me-103-final-project](https://github.com/kyle-nelson-berkeley/me-103-final-project) — Determines steak cooking "doneness"
+- [scalup](https://github.com/kyle-nelson-berkeley/scalup) — environmental sensor records ocean conditions unsupervised for days
+- [me-103-final-project](https://github.com/kyle-nelson-berkeley/me-103-final-project) — determines steak cooking "doneness"
   from heat-camera video
-- [Village-of-Sundar](https://github.com/kyle-nelson-berkeley/Village-of-Sundar) — a tile based survival game with seed
-  based map generation, written in Java for UC Berkeley CS61B: Data Structures
+- [Village-of-Sundar](https://github.com/kyle-nelson-berkeley/Village-of-Sundar) — a tile-based survival game with seed-based
+  map generation, written in Java with a partner for UC Berkeley CS61B: Data Structures
 
-Repositories ending in `mcp`: empower AI agents to use APIs the way a person would.
+Repositories ending in `mcp` empower AI agents to use APIs the way a person would.
 
 - [onshape-mcp](https://github.com/kyle-nelson-berkeley/onshape-mcp) — create and assemble 3D parts in Onshape, a design program
 - [runpod-mcp](https://github.com/kyle-nelson-berkeley/runpod-mcp) — runs AI training on rented computers with spending limits
