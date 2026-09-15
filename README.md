@@ -5,6 +5,7 @@ CS. I now work in Ocean Engineering and am excited about Embedded Software. I bu
 
 - [my portfolio](https://kyle-nelson-berkeley.vercel.app/) — detailed project and life experiences with photos and video
 
+
 <img src="https://res.cloudinary.com/dr76gues0/image/upload/w_720/v1787307444/portfolio/scalup-v2-housing.jpg" alt="A sensor pod I built at Woods Hole, in its 3D-printed case" width="380">
 
 Right now I am a visiting researcher at TU Hamburg in Germany. I work on self-driving firmware for a small underwater
