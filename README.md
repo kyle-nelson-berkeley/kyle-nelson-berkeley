@@ -1,19 +1,20 @@
 # Kyle Nelson
 
-Hi, I'm Kyle. I just graduated from UC Berkeley in Mechanical Engineering, with coursework toward a minor in EE and
-CS. I now work in Ocean Engineering and am excited about Embedded Software. I build sensors and underwater robots.
+Hi, I'm Kyle. I graduated from UC Berkeley in 2026 in Mechanical Engineering, with coursework toward a minor in EE
+and CS. I am an AI Engineer for my own AI integration company, Desert Mango. I am excited about Embedded Software, and
+I build sensors and underwater robots.
 
 - [my portfolio](https://kyle-nelson-berkeley.vercel.app/) — detailed project and life experiences with photos and video
 
 
 <img src="https://res.cloudinary.com/dr76gues0/image/upload/w_720/v1787307444/portfolio/scalup-v2-housing.jpg" alt="A sensor pod I built at Woods Hole, in its 3D-printed case" width="380">
 
-Right now I am a visiting researcher at TU Hamburg in Germany. I work on self-driving firmware for a small underwater
-robot called the HippoCampus. I build its navigation and control stack: probabilistic state estimation from
+From July to September 2026 I was a visiting researcher at TU Hamburg in Germany. I worked on self-driving firmware
+for a small underwater robot called the HippoCampus. I built its navigation and control stack: probabilistic state estimation from
 IMU data, thruster control policies trained in Isaac Lab, world mapping from ultrasonic range data, and path planning
 driven by interchangeable environmental sensors like pH, temperature, and light.
 
-Before this, I spent the last 2 summers at the Woods Hole Oceanographic Institution in Massachusetts, building a
+Earlier, I spent two summers at the Woods Hole Oceanographic Institution in Massachusetts, building a
 small low-cost environmental sensor that measures ecosystem health by evaluating pH, dissolved oxygen, temperature,
 and conductivity. At UC Berkeley I led the sub-team that wrote foundational code to enable a fleet of small robotic
 sail boats to talk to each other and to shore via a completely peer-to-peer radio mesh network.
